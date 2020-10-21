@@ -8,6 +8,7 @@ public class Main {
                 "今年上半年有什么电影",
                 "从2010年3月份到二零一九年十二月份有哪些动漫",
                 "最近两个礼拜有什么电视剧",
+                "七月上旬开了几场演唱会",
         };
 
         for (String question : questions) {
